@@ -41,7 +41,3 @@ Currently, I am studing **Università della Svizzera Italiana**, with a strong f
 - **Email:** pietrofornib@gmail.com  
 
 ---
-
-### 📊 **GitHub Stats**
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
