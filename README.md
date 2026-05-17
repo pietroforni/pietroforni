@@ -13,7 +13,7 @@ Currently, I am studing at **Università della Svizzera Italiana**, with a stron
 - **SolidWorks**  
 - **Solid Edge**  
 
-### 💻 **Programming Languages & Frameworks**
+### **Programming Languages & Frameworks**
 - **C, C++, Java**  
 - **Python (PyTorch, Numpy, Numba)**  
 - **MATLAB**    
