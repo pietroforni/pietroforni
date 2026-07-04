@@ -15,5 +15,5 @@ Currently, I am studing at **Università della Svizzera Italiana**, with a stron
 
 ## **Get in Touch**
 - **LinkedIn:** (www.linkedin.com/in/pietro-bernardo-maria-forni-0899122b8)
-- 
+
 ---
