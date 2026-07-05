@@ -6,14 +6,7 @@ Currently, I am studing at **Università della Svizzera Italiana**, with a stron
 
 ---
 
-### **Programming Languages
+### **Programming Languages**
 - **C, C++, Java**  
 - **Python (PyTorch, Numpy, Numba)**  
 - **MATLAB**    
-
----
-
-## **Get in Touch**
-- **LinkedIn:** (www.linkedin.com/in/pietro-bernardo-maria-forni-0899122b8)
-
----
